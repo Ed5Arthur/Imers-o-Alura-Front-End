@@ -1,5 +1,5 @@
 body {
-    background-color: #000;
+    background-color: #242424;
 }
 
 .sidebar {
@@ -12,13 +12,13 @@ body {
 }
 
 .sidebar_navigation {
-    background-color: indigo;
+    background-color: #121212;
     border-radius: 8px;
     padding: 16px 0 0 16px;
 }
 
 .sidebar_navigation .logo {
-    background: indigo;
+    background: #121212;
     display: flex;
     border-radius: 8px;
     padding: 16px 0 0 16px;
@@ -46,7 +46,7 @@ body {
 }
 
 .library {
-    background-color: indigo;
+    background-color: #121212;
     border-radius: 8px;
     display: flex;
     justify-content: space-between;
